@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ememfrank/static/css/main.6d8c2922.css",
-    "main.js": "/ememfrank/static/js/main.b56f1bc3.js",
+    "main.css": "/ememfrank/static/css/main.b3ee9bc1.css",
+    "main.js": "/ememfrank/static/js/main.9e03432a.js",
     "static/media/land.jpg": "/ememfrank/static/media/land.b079ccb94b234ae1e175.jpg",
     "static/media/me.jpeg": "/ememfrank/static/media/me.71409aec39091dfc786c.jpeg",
     "static/media/u.jpg": "/ememfrank/static/media/u.f6ad7d1845faeb0ed71e.jpg",
@@ -9,7 +9,7 @@
     "index.html": "/ememfrank/index.html"
   },
   "entrypoints": [
-    "static/css/main.6d8c2922.css",
-    "static/js/main.b56f1bc3.js"
+    "static/css/main.b3ee9bc1.css",
+    "static/js/main.9e03432a.js"
   ]
 }
