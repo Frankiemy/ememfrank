@@ -175,14 +175,20 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: uImage,
-        description: "UI/UX: PayYou Payment System For a Transfer Service In Ghana",
-        link: "#",
+        img: uImage, 
+        title: "PayYou : Overview",
+        description: "The PayYou UI/UX design is a comprehensive digital solution tailored for a payment gateway in Ghana. This design focuses on creating a seamless, intuitive, and user-friendly experience for a diverse range of users, including individuals, small businesses, and larger enterprises. My design philosophy centers around the users' needs and behaviors. The PayYou interface is designed with simplicity and ease of use in mind, ensuring that both tech-savvy users and those less familiar with digital payment systems can navigate the platform effortlessly. The design prioritizes accessibility, with clear, large buttons and a straightforward layout that guides users through the payment process step by step.",
+        Designer: "Frank Emem",
+        Category: "UI/UX",
+        link: "portfolio/0",
     },
     {
         img: lImage,
-        description: "Logo: Gravity Logo",
-        link: "#",
+        title: "Gravity : Overview",
+        description: "The Gravity logo was designed for a graphic design company with a focus on representing the core essence of the brand—creativity, stability, and innovation. The logo's design incorporates elements that symbolize the grounding force of gravity, which metaphorically relates to the company's role in bringing creative ideas down to earth, making them tangible and impactful.he use of bold typography and clean lines gives the logo a modern, professional look, while the subtle design elements suggest movement and energy, reflecting the dynamic nature of the design industry. The choice of colors is deliberate, evoking a sense of trust, professionalism, and creativity. Overall, the Gravity logo serves as a strong visual identity for the company, conveying its commitment to delivering solid, reliable, and creative design solutions.",
+        Designer: "Frank Emem",
+        Category: "Logo",
+        link: "portfolio/1",
     },
     {
         img: MyImage,

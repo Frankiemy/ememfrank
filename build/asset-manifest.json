@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emem-frank/static/css/main.6d8c2922.css",
-    "main.js": "/emem-frank/static/js/main.332bdcdf.js",
-    "static/media/land.jpg": "/emem-frank/static/media/land.b079ccb94b234ae1e175.jpg",
-    "static/media/me.jpeg": "/emem-frank/static/media/me.71409aec39091dfc786c.jpeg",
-    "static/media/u.jpg": "/emem-frank/static/media/u.f6ad7d1845faeb0ed71e.jpg",
-    "static/media/logo.jpg": "/emem-frank/static/media/logo.db483a65d78e7c52aa47.jpg",
-    "index.html": "/emem-frank/index.html"
+    "main.css": "/ememfrank/static/css/main.6d8c2922.css",
+    "main.js": "/ememfrank/static/js/main.b56f1bc3.js",
+    "static/media/land.jpg": "/ememfrank/static/media/land.b079ccb94b234ae1e175.jpg",
+    "static/media/me.jpeg": "/ememfrank/static/media/me.71409aec39091dfc786c.jpeg",
+    "static/media/u.jpg": "/ememfrank/static/media/u.f6ad7d1845faeb0ed71e.jpg",
+    "static/media/logo.jpg": "/ememfrank/static/media/logo.db483a65d78e7c52aa47.jpg",
+    "index.html": "/ememfrank/index.html"
   },
   "entrypoints": [
     "static/css/main.6d8c2922.css",
-    "static/js/main.332bdcdf.js"
+    "static/js/main.b56f1bc3.js"
   ]
 }
